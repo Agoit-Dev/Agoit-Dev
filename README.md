@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on an Android App
 
-💬 Ask me about Java code
+💬 Ask me about Java code and some stuffs about python
