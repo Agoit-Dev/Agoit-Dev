@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning Kotlin for develop Android Apps
+🔭 I’m currently working on an Android App
+💬 Ask me about Java code
