@@ -18,8 +18,16 @@ Currently focusing on **Kotlin** and **Android**, with experience in **Java** an
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 **Environment & Tools:**  
-Android Studio • Visual Studio Code • Git • Firebase • Odoo
-XAMPP • MySQL Workbench • Nginx
+<!--Android Studio • Visual Studio Code • Git • Firebase • Odoo
+XAMPP • MySQL Workbench • Nginx-->
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
 ---
 
