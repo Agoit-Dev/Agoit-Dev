@@ -6,8 +6,13 @@
 
 💬 Ask me about Java code and some stuffs about python-->
 
+I’m an aspiring Android developer passionate about creating mobile applications and exploring new technologies.
+I also have experience in IT systems administration, including server management, databases, and network configuration, which strengthens my understanding of backend infrastructure.
+As part of my studies, I built ControlGastos, a Capstone Project for expense tracking using Kotlin, Jetpack Compose, and Firebase.
+I’m currently expanding my skills in Kotlin and Android, with additional experience in Java and Python.
+<!-- first verision of introdcution
 I'm an aspiring Android developer passionate about building mobile apps and learning new technologies.  
-Currently focusing on **Kotlin** and **Android**, with experience in **Java** and some projects in **Python**.
+Currently focusing on **Kotlin** and **Android**, with experience in **Java** and some projects in **Python**.-->
 
 ---
 
