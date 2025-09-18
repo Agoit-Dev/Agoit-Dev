@@ -13,9 +13,11 @@ Currently focusing on **Kotlin** and **Android**, with experience in **Java** an
 
 ## 🚀 Tech Stack & Tools
 **Languages:**  
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,python)](https://skillicons.dev)
+<!-- Option with shileds.io
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)-->
 
 **Environment & Tools:**  
 <!--Android Studio • Visual Studio Code • Git • Firebase • Odoo
